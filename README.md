@@ -10,4 +10,5 @@ And I refer to the guideline below,
 The goal is complete all basic analysis steps, and I will list them below.
 1. Load Data: LoadDataFromSklearn.ipynb (20190404)
 2. Descriptive Statistics: Statistics.ipynb (20190415)
-3. Visualization: Visualization (Matplotlib).ipynb (20190428)
+3. Visualization-Part1: Visualization (Matplotlib).ipynb (20190428)
+4. Visualization-Part2: Visualization (Seaborn).ipynb (20190505)
